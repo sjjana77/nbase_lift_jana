@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nbase_lift_jana/static/css/main.f855e6bc.css",
+    "main.js": "/nbase_lift_jana/static/js/main.51314b09.js",
+    "static/js/453.43f24017.chunk.js": "/nbase_lift_jana/static/js/453.43f24017.chunk.js",
+    "index.html": "/nbase_lift_jana/index.html",
+    "main.f855e6bc.css.map": "/nbase_lift_jana/static/css/main.f855e6bc.css.map",
+    "main.51314b09.js.map": "/nbase_lift_jana/static/js/main.51314b09.js.map",
+    "453.43f24017.chunk.js.map": "/nbase_lift_jana/static/js/453.43f24017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.51314b09.js"
+  ]
+}
