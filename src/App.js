@@ -1,23 +1,17 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import Lift from './Lift';
+
+const TOTAL_FLOORS = 5; // Assuming a building with 5 floors
+const FLOOR_HEIGHT = 100; // Assuming each floor is 100px in height
+const TRAVEL_TIME = 2000; // Time taken to travel between floors in milliseconds
 
 function App() {
+ 
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Lift />
     </div>
   );
 }
